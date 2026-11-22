@@ -1,3 +1,5 @@
+###DevSecOps for Git commitments### :-
+
 Q. How to make the DevOps teams understand the importance of Security at their firm level?
 ⇒ Make them understand the prone risk for vulnerabilities and loopholes via the <u>Threat Modeling</u> demonstrations on their system.
 
